@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+}
+
+.image1 {
+  float: left;
+  margin-right: 10px;
+}
+
+.image2 {
+  float: left;
+  margin-right: 10px;
+}
+
+.image3 {
+  float: left;
+}
+
+img {
+  border: 2px solid black;
+}
